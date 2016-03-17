@@ -1,0 +1,98 @@
+{
+  "project": {
+    "projectSettingsVersion": "2.0.0",
+    "initialAutoPluginCount": 0,
+    "currentBuildConfiguration": "Android",
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "app.js": {
+        "previousModTime": 1457839998000,
+        "modified": 1457839998000,
+        "seen": true,
+        "name": "app.js"
+      },
+      "bb8.xdk": {
+        "previousModTime": 1457837167000,
+        "modified": 1457837167000,
+        "seen": true,
+        "name": "bb8.xdk"
+      },
+      "bb8.xdke": {
+        "previousModTime": 1457841064000,
+        "modified": 1457841064000,
+        "seen": true,
+        "name": "bb8.xdke"
+      },
+      "package.json": {
+        "previousModTime": 1457837108000,
+        "modified": 1457837108000,
+        "seen": true,
+        "name": "package.json"
+      },
+      "bin/www": {
+        "previousModTime": 1457837108000,
+        "modified": 1457837108000,
+        "seen": true,
+        "name": "bin/www"
+      },
+      "public/stylesheets/style.css": {
+        "previousModTime": 1457839724000,
+        "modified": 1457839724000,
+        "seen": true,
+        "name": "public/stylesheets/style.css"
+      },
+      "routes/index.js": {
+        "previousModTime": 1457837108000,
+        "modified": 1457837108000,
+        "seen": true,
+        "name": "routes/index.js"
+      },
+      "routes/users.js": {
+        "previousModTime": 1457837108000,
+        "modified": 1457837108000,
+        "seen": true,
+        "name": "routes/users.js"
+      },
+      "views/error.jade": {
+        "previousModTime": 1457837108000,
+        "modified": 1457837108000,
+        "seen": true,
+        "name": "views/error.jade"
+      },
+      "views/index.jade": {
+        "previousModTime": 1457837108000,
+        "modified": 1457837108000,
+        "seen": true,
+        "name": "views/index.jade"
+      },
+      "views/layout.jade": {
+        "previousModTime": 1457837108000,
+        "modified": 1457837108000,
+        "seen": true,
+        "name": "views/layout.jade"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1457837167000,
+        "modified": 1457837167000,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      },
+      "public/index.html": {
+        "previousModTime": 1457841061000,
+        "modified": 1457841061000,
+        "seen": true,
+        "name": "public/index.html"
+      },
+      "public/scripts/main.js": {
+        "previousModTime": 1457839769000,
+        "modified": 1457839769000,
+        "seen": true,
+        "name": "public/scripts/main.js"
+      }
+    },
+    "boardFileStatus": {}
+  }
+}

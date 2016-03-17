@@ -1,0 +1,111 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  text-align: center;
+  min-width: 550px;
+}
+
+a {
+  color: #00B7FF;
+}
+ 
+h1 {
+    text-align: center;
+}
+video {
+    width: 100%;
+    max-width: 800px;
+    min-width: 450px;
+    /*margin-left: 50%;
+    transform: translateX(-50%);*/
+}
+div.controls {
+    display: block;
+    padding: 5px;
+    width: 450px;
+    margin: 0 auto;
+}
+
+.controls>div { 
+    display: block;
+    float: left;
+    width: 200px;
+    border: 2px solid tomato;
+    padding: 5px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.arrow {
+    position: relative;
+    display: inline-block;
+    background-image: url(../images/arrow.jpg);
+    background-size: 50px 50px;
+    width: 50px;
+    height: 50px;
+    margin: 5px 0;
+}
+.up-left {
+
+    transform: rotate(-135deg);
+}
+
+.up {
+    transform: rotate(-90deg);
+}
+
+.up-right {
+    transform: rotate(-45deg);
+}
+
+.right {
+    margin-left: 48px;
+}
+
+.right-down {
+    transform: rotate(45deg);
+}
+
+.down {
+    transform: rotate(90deg);
+}
+
+.left-down {
+    transform: rotate(135deg);
+}
+
+.left {
+    transform: rotate(180deg);
+}
+
+div.rotate {
+    height: 200px;
+    margin-left: 20px;
+    padding-top: 50px;
+    /*margin-top: 50px;*/
+}
+.rotate>span {
+    display: inline-block;
+    background-size: 90px 90px;
+    width: 90px;
+    height: 90px;
+}
+.clock-wise {
+    background-image: url(../images/clock-wise.svg);
+    transform: rotate(-90deg);
+}
+
+.unclock-wise {
+    background-image: url(../images/unclock-wise.svg);
+}
+
+
+
+
+
+
+
